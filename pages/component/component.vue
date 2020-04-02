@@ -1,6 +1,6 @@
 <template>
   <view>
-    <text>我是扩展组件页面houwenli</text>
+    <text>我是扩展组件页面1</text>
   </view>
 </template>
 
